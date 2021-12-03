@@ -8,9 +8,9 @@
 Funtion Hash-Calculator
 
 # Integrantes:
-*1. Edwar Jhoel Vargas Herhuay*
-*2. Brian Emanuel Silva Corrales*
-*3. Luis Armando Sihuinta Perez*
+*1. Edwar Jhoel Vargas Herhuay* <br/>
+*2. Brian Emanuel Silva Corrales* <br/> 
+*3. Luis Armando Sihuinta Perez* <br/>
 
 
 
