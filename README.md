@@ -12,11 +12,26 @@ Funtion Hash-Calculator
 *2. Brian Emanuel Silva Corrales* <br/> 
 *3. Luis Armando Sihuinta Perez* <br/>
 
-# Detalles para clonar repository
+## Instalación
 
---clone repositoorio
-Instale dependencias
+- Plugins VSCode
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- Instalacion de las dependencias
 
---npm install
+    ```
+    npm install
+
+    ```
+
+### Clonar el repositorio
+
+- Clon este repositorio usando :
+
+    ```
+    `git clone <https://github.com/evargashe/CalculadoraHashOnline.git`>
+
+    ```
+
+---
 
 
