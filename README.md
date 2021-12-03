@@ -12,5 +12,11 @@ Funtion Hash-Calculator
 *2. Brian Emanuel Silva Corrales* <br/> 
 *3. Luis Armando Sihuinta Perez* <br/>
 
+# Detalles para clonar repository
+
+--clone repositoorio
+Instale dependencias
+
+--npm install
 
 
