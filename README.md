@@ -12,7 +12,7 @@ Funtion Hash-Calculator
 *2. Brian Emanuel Silva Corrales* <br/> 
 *3. Luis Armando Sihuinta Perez* <br/>
 
-## Instalación
+# Instalación
 
 - Plugins VSCode
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -23,7 +23,7 @@ Funtion Hash-Calculator
 
     ```
 
-### Clonar el repositorio
+## Clonar el repositorio
 
 - Clon este repositorio usando :
 
