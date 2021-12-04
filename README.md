@@ -5,7 +5,7 @@
 
 # CalculadoraHashOnline
 
-Funtion Hash-Calculator
+Function Hash-Calculator
 
 # Integrantes:
 *1. Edwar Jhoel Vargas Herhuay* <br/>
